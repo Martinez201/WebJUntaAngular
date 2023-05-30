@@ -1,1 +1,36 @@
-/* You can add global styles to this file, and also import other style files */
+
+.filaCabecera{
+
+    background-color: #333333;
+    color: white;
+    text-decoration: none;
+
+}
+
+.filaCabecera i{
+
+  margin-left: 3px;
+  color: white;
+}
+
+.filaCabecera a{
+
+  margin-right: 1px;
+  color: white;
+}
+
+img {
+
+    -o-object-fit: cover;
+     object-fit: cover;
+  }
+
+  li{
+    list-style:none;
+  }
+
+  h5{
+    font: bold;
+  }
+
+
