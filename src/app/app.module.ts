@@ -3,10 +3,10 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { RedesSocialesComponent } from './redes-sociales/redes-sociales.component';
-import { NavegacionComponent } from './navegacion/navegacion.component';
-import { BuscadorComponent } from './buscador/buscador.component';
-import { EnlacesComponent } from './enlaces/enlaces.component';
+import { RedesSocialesComponent } from './componentes/redes-sociales/redes-sociales.component';
+import { NavegacionComponent } from './componentes/navegacion/navegacion.component';
+import { BuscadorComponent } from './componentes/buscador/buscador.component';
+import { EnlacesComponent } from './componentes/enlaces/enlaces.component';
 
 @NgModule({
   declarations: [
